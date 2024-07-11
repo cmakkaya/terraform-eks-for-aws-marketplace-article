@@ -13,26 +13,31 @@ For "Deploying Anteon By Using AWS Marketplace, And Monitoring Kubernetes Cluste
 
 #### 🔍 We will do these practically step by step in this article;
 
-Topics we will cover in this article:
-* The tools we'll use in this article
-* Prerequisites
+The tools we'll use in this article
+Prerequisites
+Introduction
 1. Creating an Amazon EKS cluster on a Custom Amazon VPC using Terraform
 2. Installing Anteon from AWS Marketplace
 * 2.1. Pricing Anteon on AWS Marketplace
 * 2.2. Subscribing to Anteon on AWS Marketplace
-* 2.3. Installing Anteon from AWS Marketplace
-* 2.4. Configuring The AWS Cloud to Access Anteon UI
+* 2.3. Launching Anteon
+* 2.4. Accessing the Anteon UI
+* 2.5. Managing your Anteon Subscriptions
 3. Deploying and Running a Microservices App with MySQL Database on the Amazon EKS Kubernetes Cluster
 4. Checking Whether The Microservices App is Working Via CLI and The Browser.
-5. Monitoring Kubernetes cluster Using Anteon on AWS Marketplace
-* 5.1. Anteon Service Map
-* 5.1. Using Service Map To View The Interactions Between The Resources in The K8s Cluster
-* 5.1.1. What is the average latency between service X and service Y?
-* 5.1.2. Which services have higher/lower latency than XX ms?
-* 5.1.3. What is the average RPS between service X and service Y?
-* 5.1.4. Is there a Zombie Service on your cluster?
-* 5.1.5. Running Ddosify Engine As A Dummy Load And Finding bottlenecks in the cluster.
+5. Monitoring Kubernetes cluster Using Anteon
+* 5.1. Anteon Service Map
+* 5.2. Using Service Map To View The Interactions Between The Resources in The K8s Cluster
+* 5.2.1. What is the average latency between service X and service Y?
+* 5.2.2. Which services have higher/lower latency than XX ms?
+* 5.2.3. What is the average RPS between service X and service Y?
+* 5.2.4.  Is there a Zombie Service on your cluster?
+* 5.2.5. Running Ddosify Engine As A Dummy Load 
+* 5.2.6. Finding bottlenecks in the cluster
 6. Clean-Up
+* 6.1. Canceling Your Subscription
+* 6.2. Terminating Your Instance
+* 6.3. Terminating Amazon EKS Cluster
 7. Conclusion
 8. Next post
 9. References
