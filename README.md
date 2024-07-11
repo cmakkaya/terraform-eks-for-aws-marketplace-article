@@ -55,9 +55,9 @@ Introduction
 9. References
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-### If you liked the article, I would be happy if you clicked on the [Medium Following](https://cmakkaya.medium.com/) button to encourage me to write and not miss future articles.
-### Your clap, follow, or subscribe, they help my articles to reach a broader audience. Thank you in advance for them.
-### For more info and questions, don't hesitate to get in touch with me on [Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or [Medium](https://cmakkaya.medium.com/).
+#### If you liked the article, I would be happy if you clicked on the [Medium Following](https://cmakkaya.medium.com/) button to encourage me to write and not miss future articles.
+#### Your clap, follow, or subscribe, they help my articles to reach a broader audience. Thank you in advance for them.
+#### For more info and questions, don't hesitate to get in touch with me on [Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or [Medium](https://cmakkaya.medium.com/).
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Note: Learn-terraform-provision-eks-cluster. This repo is created from the [Provision an EKS Cluster tutorial](https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks), containing Terraform configuration files to provision an EKS cluster on AWS. 
