@@ -46,4 +46,4 @@ Topics we will cover in this article:
 <p align="left">
 <a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> https://www.linkedin.com/in/cumhurakkaya 
 
-#### Note: This repo is created from the [Provision an EKS Cluster tutorial](https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks), containing Terraform configuration files to provision an EKS cluster on AWS.
+#### Note: Learn-terraform-provision-eks-cluster. This repo is created from the [Provision an EKS Cluster tutorial](https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks), containing Terraform configuration files to provision an EKS cluster on AWS. 
