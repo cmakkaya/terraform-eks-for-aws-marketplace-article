@@ -7,7 +7,7 @@ For "Deploying Anteon By Using AWS Marketplace, And Monitoring Kubernetes Cluste
 - Creating an Amazon EKS cluster on a Custom Amazon VPC using Terraform
 - CI/CD pipeline building
 - Kubernetes monitoring
-- How to find RPS, Zombie Service, and bottlenecks in the cluster.
+- How to find Zombie Service, RPS, and bottlenecks in the cluster.
 - Installing Anteon from AWS Marketplace
 - and more ...
 
