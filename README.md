@@ -1,18 +1,12 @@
 # terraform-eks-for-aws-marketplace-article, provision an EKS Cluster
-For "Deploying Anteon By Using AWS Marketplace, And Monitoring Kubernetes Cluster's Performance on Amazon EKS Created With Terraform" article.
+This repo was created for "Deploying Anteon By Using AWS Marketplace, And Monitoring Kubernetes Cluster's Performance on Amazon EKS Created With Terraform" article.
 
-### Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+#### Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
-#### ⭐ Also, thank you for giving `stars` to my GitHub repository.
+##### ⭐ Also, thank you for giving `stars` to my GitHub repository.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/cmakkaya/terraform-eks-for-aws-marketplace-article/assets/110052470/5b6ae355-4f80-47ae-8d15-86f599e6f64d)
-#### If you like the article, I will be happy if you click on the  <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a> [Medium](https://cmakkaya.medium.com/) Following button to encourage me to write more, and not miss future articles.
-
-#### Connect with me 📫 You can learn more about me. 
-<a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> https://www.linkedin.com/in/cumhurakkaya 
+##### If you like the article, I will be happy if you click on the  <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a> [Medium](https://cmakkaya.medium.com/) Following button to encourage me to write more, and not miss future articles.
 
 
 ## Check Out This Article and Learn:
@@ -58,6 +52,12 @@ Introduction
 #### If you liked the article, I would be happy if you clicked on the [Medium Following](https://cmakkaya.medium.com/) button to encourage me to write and not miss future articles.
 #### Your clap, follow, or subscribe, they help my articles to reach a broader audience. Thank you in advance for them.
 #### For more info and questions, don't hesitate to get in touch with me on [Linkedin](https://www.linkedin.com/in/cumhurakkaya/) or [Medium](https://cmakkaya.medium.com/).
+
+<a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> https://www.linkedin.com/in/cumhurakkaya 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Note: Learn-terraform-provision-eks-cluster. This repo is created from the [Provision an EKS Cluster tutorial](https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks), containing Terraform configuration files to provision an EKS cluster on AWS. 
